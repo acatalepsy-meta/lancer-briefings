@@ -8,6 +8,7 @@
 			<div class="rhombus-back">&nbsp;</div>
 		</div>
 		<div class="pilot">
+			<p/>
 			<Markdown :source="bio" class="markdown" />
 		</div>
 	</div>

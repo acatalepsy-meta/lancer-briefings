@@ -1,7 +1,3 @@
-...loading...
+## Biographical Data 
 
-...loading...
-
-...loading...
-
-## Biographical Data [UNKNOWN]
+Former star of the well-known action/comedy/drama Black Sheep Squadron omninet IP, Von's addictive personality led to his part being recast at the height of BSS' popularity. Since he was well-versed in the piloting skills from his work on the show and known for appearing aroud mechs, he took endorsement deals and eventually jobs from those who assumed he could do all the things people saw on the show.

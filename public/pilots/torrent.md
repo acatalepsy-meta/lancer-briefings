@@ -1,7 +1,3 @@
-...loading...
+## Biographical Data
 
-...loading...
-
-...loading...
-
-## Biographical Data [UNKNOWN]
+Born into a clan of shipwrights on the Magellan Fringe, Eris 'Torrent' Rao spent much of her early life in and around high-performance aerospace vehicles, often as a pilot.  She eventually worked up to the big leagues: The Flash Circuit, a motorsport so fast that an integrated NHP or intelligent system is necessary to avoid a swift and certain death as the competitors weave through planetside landscapes and debris fields in the black.  Eris was particularly good at it, thanks both to personal skill and a deep connection with her NHP, a derivative of the Phoenix cognome.  The pair worked their way into the top one percent of the sport and made quite a name for themselves before Torrent eventually tired of the races and announced an early retirement, which quickly became a change of career into Lancer work.  She holds some uncommonly sympathetic viewpoints towards NHPs due to her longstanding bond with one, and often throws in her lot with the Horizon Collective, advocating both for more rights and better understanding of cognitive divergence as a whole.

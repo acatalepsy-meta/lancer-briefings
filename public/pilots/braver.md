@@ -1,7 +1,3 @@
-...loading...
+## Biographical Data
 
-...loading...
-
-...loading...
-
-## Biographical Data [UNKNOWN]
+Genos "Braver" Knight was a young contender of unknown origins, featured in a syndicated mech gladiatorial competition until his growing ingenuity chafed against league regulations. After retirement he turned to mercenary work to both fund his ongoing projects and test them in live combat. Since then he has become known for his consummate professionalism contrasted against the bestial aspect of his mech.
