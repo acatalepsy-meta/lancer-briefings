@@ -91,7 +91,7 @@ export default {
     return {
       "mission_slug": "001",
       "current_md": "001",
-      "events": "",
+	  "events": "",
       "missions": [
         {
           "slug": "001",
@@ -187,6 +187,7 @@ export default {
       else {
         md = "/events.md"
       }
+
 
       var client = new XMLHttpRequest();
       client.open('GET', md);
