@@ -195,6 +195,7 @@ export default {
         self.events = client.responseText;
       }
       client.send();
+
     }
   }
 

@@ -7,7 +7,7 @@ Genos’s career climaxed and ended abruptly when the league commission disenfra
 
 ## Commentary
  
-• His unusually young age, impressive Lancer abilities, and perhaps coincidental resemblance to a prominent Albatross bloodline continue to fuel rumors of his mysterious origin
-• He is possessed of a calm and laconic demeanor in a stark contrast to a brutally violent piloting style
-• Genos remains disinterested in the greater morality and stakes of conflict and defers to the decisions of his squad mates
-• Despite not impressing his own motives upon the squad, he often commits downtime to improving team operations and expanding resources
+- His unusually young age, impressive Lancer abilities, and perhaps coincidental resemblance to a prominent Albatross bloodline continue to fuel rumors of his mysterious origin
+- He is possessed of a calm and laconic demeanor in a stark contrast to a brutally violent piloting style
+- Genos remains disinterested in the greater morality and stakes of conflict and defers to the decisions of his squad mates
+- Despite not impressing his own motives upon the squad, he often commits downtime to improving team operations and expanding resources
