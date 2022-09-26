@@ -93,15 +93,15 @@ export default {
       "current_md": "002a",
 	  "events": "",
       "missions": [
-        {
-          "slug": "001",
-          "name": "Due-Course",
-          "status": "success"
-        },
 		{
           "slug": "002a",
           "name": "A Small Favor",
           "status": "start"
+        },
+		{
+          "slug": "001",
+          "name": "Due-Course",
+          "status": "success"
         }
       ],
       "pilots": [
