@@ -21,7 +21,7 @@
         </div>
       </div>
     </section>
-    <section class="section-container" id="events" style="width:435px; height:714px;">
+    <section class="section-container" id="events" style="width:500px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
         <h1>Events Log</h1>
@@ -30,7 +30,7 @@
         <Markdown :source="events" class="markdown" />
       </div>
     </section>
-    <section class="section-container" id="pilots" style="width:894px; height:714px;">
+    <section class="section-container" id="pilots" style="width:800px; height:714px;">
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
@@ -89,13 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
-      "current_md": "001",
+      "mission_slug": "002a",
+      "current_md": "002a",
 	  "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Due-Course",
+          "status": "success"
+        },
+		{
+          "slug": "002a",
+          "name": "A Small Favor",
           "status": "start"
         }
       ],
