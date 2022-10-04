@@ -89,18 +89,23 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002a",
-      "current_md": "002a",
+      "mission_slug": "002b",
+      "current_md": "002b",
 	  "events": "",
       "missions": [
-		{
-          "slug": "002a",
-          "name": "A Small Favor",
+	  	{
+          "slug": "002b",
+          "name": "Firebreak",
           "status": "start"
         },
 		{
+          "slug": "002a",
+          "name": "A Small Favor",
+          "status": "success"
+        },
+		{
           "slug": "001",
-          "name": "Due-Course",
+          "name": "Due Course",
           "status": "success"
         }
       ],
