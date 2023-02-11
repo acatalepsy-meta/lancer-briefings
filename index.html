@@ -10,32 +10,29 @@
   <meta property="og:title" content="Horizon Mission Briefing">
   <meta property="og:description" content="HORIZON | MISSION BRIEFING">
   <meta property="og:image" content="/icons/company-icon.svg">
-  <title>HORIZON | MISSION BRIEFING</title>
+  <title>MNEMOSYNE COALTION | MISSION BRIEFING</title>
 </head>
 
 <body style="margin:0px;">
   <div id="app"></div>
   <script type="module" src="/src/main.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.waves.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.net.min.js"></script>
-
-</body>
+  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.globe.min.js"></script>
   <script>
-    VANTA.NET({
+    VANTA.GLOBE({
       el: "body",
-	  mouseControls: true,
-	  touchControls: false,
-	  gyroControls: false,
-	  minHeight: 1080.00,
-	  minWidth: 1920.00,
-	  scale: 1.00,
-	  scaleMobile: 1.00,
-	  color: 0x1c911c,
-	  backgroundColor: 0x132048,
-	  points: 8.00,
-	  spacing: 14.00,
-	  zoom: 0.85
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 900.00,
+      minWidth: 1200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color: 0x3c58b6,
+	  backgroundColor: 0x6060f,
+      zoom: 0.65
     })
   </script>
+</body>  
+  
 </html>

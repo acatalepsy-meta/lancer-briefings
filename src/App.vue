@@ -89,24 +89,14 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002b",
-      "current_md": "002b",
+      "mission_slug": "001",
+      "current_md": "001",
 	  "events": "",
       "missions": [
-	  	{
-          "slug": "002b",
-          "name": "Firebreak",
-          "status": "start"
-        },
-		{
-          "slug": "002a",
-          "name": "A Small Favor",
-          "status": "success"
-        },
 		{
           "slug": "001",
-          "name": "Due Course",
-          "status": "success"
+          "name": "Firebreak",
+          "status": "start"
         }
       ],
       "pilots": [
@@ -118,23 +108,7 @@ export default {
           "frame": "Monarch",
           "mech": "Garuda"
         },
-        {
-          "callsign": "Aspis",
-          "alias": "Von",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "UNKNOWN",
-          "frame": "BALOR Pattern",
-          "mech": "Fly You Fools"
-        },
-        {
-          "callsign": "Braver",
-          "alias": "Genos Knight",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "IPS-N",
-          "frame": "Blackbeard",
-          "mech": "Savage"
-        },
-        {
+		{
           "callsign": "Stuntman",
           "alias": "Gilles LeBlanc",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
@@ -142,6 +116,22 @@ export default {
           "frame": "Lancaster",
           "mech": "Large And In Charge"
         },
+        {
+          "callsign": "Warden",
+          "alias": "Sienna Schlussel",
+          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "corpro": "IPS-N",
+          "frame": "Blackbeard",
+          "mech": "Zweihänder"
+        },
+        {
+          "callsign": "Chrysalis",
+          "alias": "Micaela Russo",
+          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "corpro": "SSC",
+          "frame": "Duskwing",
+          "mech": "Moth\'s Wing"
+        }
       ],
       "header": {
         "planet": "Mnemosyne (Marble VII)",
@@ -149,10 +139,10 @@ export default {
         "system": "Mytikas",
         "gate": "Cascade-Rainier",
         "ring": "Cascade-Line",
-        "headerTitle": "Horizon",
-        "headerSubtitle": "Dragons of the Spine",
-        "subheaderTitle": "Cell Code",
-        "subheaderSubtitle": "Comet :: Peregrin :: Autumn",
+        "headerTitle": "Mnemosyne Coalition Command",
+        "headerSubtitle": "Task Force 32",
+        "subheaderTitle": "Mechanized Assault Section",
+        "subheaderSubtitle": "Team Bolt",
       },
       "options":{
         "eventsMarkdownPerMission": true

@@ -1,0 +1,7 @@
+## Biographical Data
+
+Sienna is a part of Kadesh, having been deployed for the Mnemosyne conflict after a number of their leadership realized that the planet was a veritable powder keg, and that some kind of armed conflict was inevitable. Sienna's official birthdate places her as being nearly two-hundred years of age, with extensive servitude; not particularly unusual among the cosmopolitans that make up the Albatross' ranks. She's immediately recognizable, thanks to the mask permanently affixed to her face in place of her mouth and her distinct black and gold armor. 
+
+She is a relatively recent arrival in Mnemosyne, given the nature of relativistic travel. And she had decided a long time ago that this time she wanted to watch over the planet. If the Albatross can tell that a world is on the brink years before it actually explodes into conflict, then it's only right that one of them stays for years later to keep it together. 
+
+Despite the name of Warden, she tends towards harder hitting melee machines, such as her customized IPS-N Blackbeard, the Zweihänder, an oversized machine that she customized after she found her previous Nelson [the Cutlass] insufficient for her needs. Namely her need to get in close and bash her foes into oblivion. 
