@@ -89,13 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
-      "current_md": "001",
+      "mission_slug": "002",
+      "current_md": "002",
 	  "events": "",
       "missions": [
 		{
           "slug": "001",
           "name": "Firebreak",
+          "status": "success"
+        },
+	  	{
+          "slug": "002",
+          "name": "Submerged",
           "status": "start"
         }
       ],
@@ -140,9 +145,9 @@ export default {
         "gate": "Cascade-Rainier",
         "ring": "Cascade-Line",
         "headerTitle": "Mnemosyne Coalition Command",
-        "headerSubtitle": "Task Force 32",
-        "subheaderTitle": "Mechanized Assault Section",
-        "subheaderSubtitle": "Team Bolt",
+        "headerSubtitle": "",
+        "subheaderTitle": "Special Contract Section",
+        "subheaderSubtitle": " Deniable Operatives",
       },
       "options":{
         "eventsMarkdownPerMission": true
